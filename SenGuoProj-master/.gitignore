@@ -1,0 +1,7 @@
+.idea
+bundle
+tmp
+node_modules
+*.lock
+package-lock.json
+vendor
